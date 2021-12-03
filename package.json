@@ -1,0 +1,23 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsun812/spot_internation_space_station.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsun812/spot_internation_space_station/issues"
+  },
+  "homepage": "https://github.com/tsun812/spot_internation_space_station#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
